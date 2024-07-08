@@ -19,6 +19,7 @@
 ## 🌟 Introduction
 
 This project implements a simple neural network from scratch in C++ to classify iris flowers using the famous Iris dataset. The neural network is trained to distinguish between three species of iris flowers based on four features: sepal length, sepal width, petal length, and petal width.
+![Training](https://github.com/HimanshuMohanty-Git24/IrisNet/assets/94133298/982748b1-e912-46a1-bdad-d7f688fac5fd)   ![CLI app](https://github.com/HimanshuMohanty-Git24/IrisNet/assets/94133298/b7408da1-7aa6-4861-8cb6-02dc3f5a0dc5)
 
 ## 🚀 Features
 
