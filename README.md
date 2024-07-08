@@ -1,4 +1,4 @@
-# 🧠 Neural Network in C++ for Iris Classification
+# 🧠 IrisNet : Neural Network in C++ for Iris Classification
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Neural Network](https://img.shields.io/badge/Neural_Network-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
