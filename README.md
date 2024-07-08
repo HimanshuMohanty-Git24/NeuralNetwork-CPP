@@ -93,6 +93,7 @@ To learn more about neural networks and implement your own, check out these reso
 2. [3Blue1Brown Neural Network Playlist](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 3. [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 4. [Deep Learning Book](https://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+5. [Neural Net implementation in C++](https://youtu.be/sK9AbJ4P8ao?si=ykOasvjrar82qcdp) by Dave Miller
 
 ## 🤝 Contributing
 
